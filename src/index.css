@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap");
+
+body {
+  background: #f8f9fa;
+  margin: 0;
+  height: 100%;
+  font-family: "Noto Sans KR", sans-serif;
+}
+#root {
+  max-width: 768px;
+  min-height: 100vh;
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(149, 157, 165, 0.1);
+  border-radius: 24px;
+  margin: 20px auto;
+  padding: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
